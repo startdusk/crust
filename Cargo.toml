@@ -1,0 +1,6 @@
+[workspace] 
+members = [
+    "lifetime_annotations",
+    "declarative_macros",
+    "iterators"
+]
