@@ -8,7 +8,7 @@
 
 3.[Iterators](./iterators/)
 
-4.Smart Pointers and Interior Mutability
+4.[Smart Pointers and Interior Mutability](./smart_pointers_and_interior_mutability/)
 
 5.Channels
 
