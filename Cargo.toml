@@ -3,5 +3,6 @@ members = [
     "lifetime_annotations",
     "declarative_macros",
     "iterators",
-    "smart_pointers_and_interior_mutability"
+    "smart_pointers_and_interior_mutability",
+    "channels"
 ]
