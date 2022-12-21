@@ -9,3 +9,7 @@ expand:
 .PHONY: test
 test:
 	@cargo test --lib
+
+.PHONY: bench
+bench:
+	@cargo bench

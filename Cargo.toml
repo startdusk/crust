@@ -4,5 +4,6 @@ members = [
     "declarative_macros",
     "iterators",
     "smart_pointers_and_interior_mutability",
-    "channels"
+    "channels",
+    "sorting_algorithms"
 ]
