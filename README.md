@@ -10,11 +10,11 @@
 
 4.[Smart Pointers and Interior Mutability](./smart_pointers_and_interior_mutability/)
 
-5.Channels
+5.[Channels](./channels/)
 
-6.Sorting Algorithms
+6.[Sorting Algorithms](./sorting_algorithms/)
 
-7.Subtyping and Variance
+7.[Subtyping and Variance](./strtok/)
 
 8.The Drop Check
 
@@ -28,5 +28,4 @@
 
 13.Send, Sync, and their implementors
 
-14.Build Scripts and Foreign-Function
-Interfaces (FFI)
+14.Build Scripts and Foreign-Function Interfaces (FFI)
