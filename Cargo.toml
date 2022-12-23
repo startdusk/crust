@@ -6,5 +6,6 @@ members = [
     "smart_pointers_and_interior_mutability",
     "channels",
     "sorting_algorithms",
-    "strtok"
+    "strtok",
+    "boks"
 ]

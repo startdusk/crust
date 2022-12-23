@@ -16,7 +16,7 @@
 
 7.[Subtyping and Variance](./strtok/)
 
-8.The Drop Check
+8.[The Drop Check](./boks/)
 
 9.Atomics and Memory Ordering
 
