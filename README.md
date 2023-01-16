@@ -18,9 +18,9 @@
 
 8.[The Drop Check](./boks/)
 
-9.Atomics and Memory Ordering
+9.[Atomics and Memory Ordering](./atomics/)
 
-10.Dispatch and Fat Pointers
+10.[Dispatch and Fat Pointers](./eksempel/)
 
 11.async/await
 

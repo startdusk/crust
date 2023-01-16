@@ -7,5 +7,7 @@ members = [
     "channels",
     "sorting_algorithms",
     "strtok",
-    "boks"
+    "boks",
+    "atomics",
+    "eksempel"
 ]
