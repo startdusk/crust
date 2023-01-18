@@ -22,7 +22,7 @@
 
 10.[Dispatch and Fat Pointers](./eksempel/)
 
-11.async/await
+11.[async/await](./patience/)
 
 12.Functions, Closures, and Their Traits
 

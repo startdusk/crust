@@ -9,5 +9,6 @@ members = [
     "strtok",
     "boks",
     "atomics",
-    "eksempel"
+    "eksempel",
+    "patience"
 ]
