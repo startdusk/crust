@@ -10,5 +10,6 @@ members = [
     "boks",
     "atomics",
     "eksempel",
-    "patience"
+    "patience",
+    "call-me"
 ]

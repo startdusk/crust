@@ -24,7 +24,7 @@
 
 11.[async/await](./patience/)
 
-12.Functions, Closures, and Their Traits
+12.[Functions, Closures, and Their Traits](./call-me/)
 
 13.Send, Sync, and their implementors
 
