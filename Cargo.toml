@@ -11,5 +11,6 @@ members = [
     "atomics",
     "eksempel",
     "patience",
-    "call-me"
+    "call-me",
+    "sharing-is-caring"
 ]

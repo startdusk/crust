@@ -98,6 +98,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "sharing-is-caring"
+version = "0.1.0"
+
+[[package]]
 name = "smart_pointers_and_interior_mutability"
 version = "0.1.0"
 

@@ -26,6 +26,6 @@
 
 12.[Functions, Closures, and Their Traits](./call-me/)
 
-13.Send, Sync, and their implementors
+13.[Send, Sync, and their implementors](./sharing-is-caring/)
 
 14.Build Scripts and Foreign-Function Interfaces (FFI)
