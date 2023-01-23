@@ -12,5 +12,6 @@ members = [
     "eksempel",
     "patience",
     "call-me",
-    "sharing-is-caring"
+    "sharing-is-caring",
+    "build-and-ffi"
 ]

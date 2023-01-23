@@ -11,6 +11,10 @@ name = "boks"
 version = "0.1.0"
 
 [[package]]
+name = "build-and-ffi"
+version = "0.1.0"
+
+[[package]]
 name = "call-me"
 version = "0.1.0"
 
